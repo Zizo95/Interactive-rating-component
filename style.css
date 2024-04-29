@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: hsl(216, 12%, 8%);
+}
+main{
+  background-color: rgb(37, 45, 55);
+  border-radius: 30px;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+  width: 30%;
+}
+section{
+  display: none;
+}
+button{
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(25, 97%, 53%);
+  border-radius: 20px;
+  padding: 10px 100px;
+  border: none;
+  cursor: pointer;
+  margin: 20px;
+}
+h1{
+  margin: 10px ;
+}
+span{
+  font-size: 25px;
+  color: hsl(217, 12%, 63%);
+  background-color: hsl(216, 12%, 54%);
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+  margin: 20px 10px;
+}
+
+p{
+  margin: 15px auto;
+  width: 50%;
+}
